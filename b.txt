@@ -1,0 +1,5 @@
+hello this file has been created by vim command
+
+lets see
+
+thanks

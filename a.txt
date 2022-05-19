@@ -1,0 +1,7 @@
+hello 
+its a new text file a.txt
+
+
+hello world
+
+thank yoiu
